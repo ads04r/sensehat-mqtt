@@ -1,0 +1,11 @@
+{
+   "id" : "sensehat-mqtt",
+   "topics" : {
+      "humidity" : "sensehat/humidity",
+      "temperature" : "sensehat/temp"
+   },
+   "broker" : {
+      "port" : 1883,
+      "host" : "127.0.0.1"
+   }
+}
